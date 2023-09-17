@@ -18,7 +18,7 @@ This is a project to implement Simple and Multiple Linear Regression on the same
 - matplotlib 
 
 ## Contributing
-Feel free to Contribute and Improve this GPA Calculator by creating a Pull Request or an Issue.
+Feel free to Contribute and Improve this by creating a Pull Request or an Issue.
 
 
 ## Connect 
